@@ -1,5 +1,4 @@
 # Multi Item Capacitated Lot Sizing Problem
-## A New Lagrangian Relaxation Procedure
 
 ## Project Mentor: Prof. R. Raghavendra Kumar Sharma
 
